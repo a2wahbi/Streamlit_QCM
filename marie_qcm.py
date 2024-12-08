@@ -22,7 +22,6 @@ def load_qcm(file):
         st.error(f"Erreur lors du chargement du fichier : {e}")
         return []
 
-# Interface pour jouer au QCM
 def play_qcm(qcm_data):
     st.subheader("🌟 Jouer au QCM 🌟")
     if not qcm_data:
@@ -34,7 +33,7 @@ def play_qcm(qcm_data):
         st.session_state.current_question = 0
         st.session_state.score = 0
         st.session_state.answers = []
-        st.session_state.timer_start_time = time.time()
+        st.session_state.validation_count = 0  # Compteur pour les validations
         st.session_state.question_validated = False  # État pour gérer les validations
 
     # Obtenir la question actuelle
@@ -57,12 +56,6 @@ def play_qcm(qcm_data):
         key=f"choice_{current_index}"
     )
 
-    # Gérer le timer
-    elapsed_time = time.time() - st.session_state.timer_start_time
-    remaining_time = max(15 - int(elapsed_time), 0)
-    timer_placeholder = st.empty()
-    timer_placeholder.markdown(f"⏳ Temps restant : {remaining_time} secondes")
-
     # Bouton pour valider la réponse
     col1, col2 = st.columns([2, 2])
     with col1:
@@ -71,28 +64,39 @@ def play_qcm(qcm_data):
         next_question = st.button("Passer à la question suivante", key=f"next_{current_index}")
 
     # Validation de la réponse
-    if validate and not st.session_state.question_validated:
-        if selected == current_qcm["correct_answer"]:
-            st.success("Bonne réponse ! 🎉")
-            st.session_state.score += 1
-        else:
-            st.error(f"Mauvaise réponse. La bonne réponse était : {current_qcm['correct_answer']}.")
+    if validate:
+        if not st.session_state.question_validated:
+            if selected == current_qcm["correct_answer"]:
+                st.success("Bonne réponse ! 🎉")
+                st.session_state.score += 1
+            else:
+                st.error(f"Mauvaise réponse. La bonne réponse était : {current_qcm['correct_answer']}.")
 
-        # Sauvegarder la réponse donnée
-        st.session_state.answers.append({
-            "question": current_qcm["question"],
-            "selected": selected,
-            "correct": selected == current_qcm["correct_answer"]
-        })
-        st.session_state.question_validated = True
+            # Sauvegarder la réponse donnée
+            st.session_state.answers.append({
+                "question": current_qcm["question"],
+                "selected": selected,
+                "correct": selected == current_qcm["correct_answer"]
+            })
+            st.session_state.question_validated = True
 
-    # Passage à la question suivante
-    if (next_question or remaining_time == 0) and st.session_state.question_validated:
+        # Incrémenter le compteur de validation
+        st.session_state.validation_count += 1
+
+        # Passage à la question suivante après deux validations
+        if st.session_state.validation_count >= 2:
+            st.session_state.current_question += 1
+            st.session_state.validation_count = 0  # Réinitialiser le compteur
+            st.session_state.question_validated = False  # Réinitialiser l'état de validation
+
+    # Passage manuel à la question suivante
+    if next_question and st.session_state.question_validated:
         st.session_state.current_question += 1
-        st.session_state.timer_start_time = time.time()  # Réinitialiser le minuteur
+        st.session_state.validation_count = 0  # Réinitialiser le compteur
         st.session_state.question_validated = False
     elif next_question and not st.session_state.question_validated:
         st.warning("Veuillez valider votre réponse avant de passer à la question suivante.")
+
 
 # Résumé des résultats
 def show_results(qcm_data):
@@ -119,7 +123,6 @@ def show_results(qcm_data):
         del st.session_state.current_question
         del st.session_state.score
         del st.session_state.answers
-        del st.session_state.timer_start_time
         del st.session_state.question_validated
 
 # Personnalisation de l'interface

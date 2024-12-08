@@ -1,0 +1,135 @@
+{
+    "questions": [
+      {
+        "question": "La méthode Validation a pour objectif de :",
+        "choices": [
+          "Réorienter les malades dans la réalité présente",
+          "Reconnaître et accepter les émotions sans chercher à les interpréter ni à les changer",
+          "Réduire les troubles cognitifs par des exercices de mémoire intensifs",
+          "Identifier les causes des émotions des malades pour les corriger"
+        ],
+        "correct_answer": "Reconnaître et accepter les émotions sans chercher à les interpréter ni à les changer"
+      },
+      {
+        "question": "Selon Naomi Feil, une démarche empathique envers les personnes âgées inclut :",
+        "choices": [
+          "La mise en place de solutions rapides et concrètes",
+          "L’écoute active et la reconnaissance de leurs émotions",
+          "Une focalisation sur les déficiences pour mieux les corriger",
+          "Une rééducation stricte des comportements inappropriés"
+        ],
+        "correct_answer": "L’écoute active et la reconnaissance de leurs émotions"
+      },
+      {
+        "question": "Quelles sont les étapes du centrage, selon Hendricks et Wills (1975) ?",
+        "choices": [
+          "Observer, analyser, agir",
+          "Se recentrer, respirer profondément, se décentrer de ses propres schèmes",
+          "Identifier les émotions, proposer des solutions, valider les réponses",
+          "Écouter, reformuler, répondre"
+        ],
+        "correct_answer": "Se recentrer, respirer profondément, se décentrer de ses propres schèmes"
+      },
+      {
+        "question": "Quels sont les trois piliers relationnels de l’Humanitude ?",
+        "choices": [
+          "Regard, parole, toucher",
+          "Écoute, empathie, proximité",
+          "Contact, compréhension, aide",
+          "Respect, dignité, égalité"
+        ],
+        "correct_answer": "Regard, parole, toucher"
+      },
+      {
+        "question": "L’objectif des préliminaires aux soins en Humanitude est :",
+        "choices": [
+          "Réduire les risques de troubles comportementaux liés aux soins",
+          "Obtenir le consentement explicite ou implicite de la personne âgée",
+          "Accélérer les soins pour limiter leur inconfort",
+          "Contrôler les émotions du patient avant l’intervention"
+        ],
+        "correct_answer": "Obtenir le consentement explicite ou implicite de la personne âgée"
+      },
+      {
+        "question": "Pourquoi le regard horizontal est-il important en Humanitude ?",
+        "choices": [
+          "Il permet de maintenir une posture professionnelle",
+          "Il reflète un rapport d’égalité avec la personne soignée",
+          "Il aide à réduire les troubles cognitifs liés à la perception",
+          "Il améliore la communication verbale uniquement"
+        ],
+        "correct_answer": "Il reflète un rapport d’égalité avec la personne soignée"
+      },
+      {
+        "question": "Le terme Snoezelen est une contraction de mots néerlandais qui signifient :",
+        "choices": [
+          "Découverte et apaisement",
+          "Communication et relaxation",
+          "Exploration et stimulation sensorielle",
+          "Activité et récupération"
+        ],
+        "correct_answer": "Exploration et stimulation sensorielle"
+      },
+      {
+        "question": "Quel sens est le moins utilisé dans la méthode Snoezelen ?",
+        "choices": [
+          "L’odorat",
+          "Le toucher",
+          "Le goût",
+          "L’ouïe"
+        ],
+        "correct_answer": "Le goût"
+      },
+      {
+        "question": "Une des règles fondamentales de la méthode Snoezelen est de :",
+        "choices": [
+          "Favoriser l’hyperstimulation sensorielle",
+          "Respecter le rythme et les choix de la personne",
+          "Limiter les interactions sociales pendant la séance",
+          "Réduire les stimulations sensorielles pour favoriser la relaxation"
+        ],
+        "correct_answer": "Respecter le rythme et les choix de la personne"
+      },
+      {
+        "question": "La médiation animale est définie comme :",
+        "choices": [
+          "Une activité visant uniquement à améliorer l’état émotionnel des patients",
+          "Une relation triangulaire entre une personne en fragilité, un animal et un intervenant expérimenté",
+          "Une méthode d’éducation assistée par des animaux pour les jeunes enfants",
+          "Une pratique exclusive aux structures hospitalières"
+        ],
+        "correct_answer": "Une relation triangulaire entre une personne en fragilité, un animal et un intervenant expérimenté"
+      },
+      {
+        "question": "Quel public n’est pas concerné par la médiation animale ?",
+        "choices": [
+          "Les personnes atteintes de maladies neuro-évolutives",
+          "Les personnes souffrant d’allergies sévères",
+          "Les personnes ayant des troubles anxieux",
+          "Les personnes sans pathologie particulière"
+        ],
+        "correct_answer": "Les personnes souffrant d’allergies sévères"
+      },
+      {
+        "question": "La méthode Montessori adaptée aux personnes âgées vise principalement à :",
+        "choices": [
+          "Corriger les troubles cognitifs par des activités répétitives",
+          "Redonner de l’autonomie en adaptant l’environnement et en offrant des choix",
+          "Renforcer les interactions sociales sans personnalisation des activités",
+          "Traiter les symptômes de démence par des thérapies médicales"
+        ],
+        "correct_answer": "Redonner de l’autonomie en adaptant l’environnement et en offrant des choix"
+      },
+      {
+        "question": "Pourquoi la mémoire procédurale est-elle centrale dans la méthode Montessori ?",
+        "choices": [
+          "Parce qu’elle est la première à être affectée par le vieillissement",
+          "Parce qu’elle permet d’acquérir et de réapprendre des gestes automatisés",
+          "Parce qu’elle remplace la mémoire explicite dans les interactions sociales",
+          "Parce qu’elle est indispensable pour diagnostiquer les troubles neurocognitifs"
+        ],
+        "correct_answer": "Parce qu’elle permet d’acquérir et de réapprendre des gestes automatisés"
+      }
+    ]
+  }
+  

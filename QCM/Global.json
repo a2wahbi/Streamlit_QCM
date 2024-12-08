@@ -1,0 +1,105 @@
+{
+    "questions": [
+      {
+        "question": "Dans le contexte de la psychogérontologie, quelle est la principale différence entre l’espérance de vie et l’espérance de vie en bonne santé ?",
+        "choices": [
+          "L’espérance de vie reflète uniquement la durée de vie maximale atteinte par une population donnée",
+          "L’espérance de vie en bonne santé stagne malgré l’augmentation de l’espérance de vie totale",
+          "Les deux concepts sont équivalents, mais l’un est utilisé pour les analyses médicales",
+          "L’espérance de vie en bonne santé est uniquement influencée par les facteurs génétiques"
+        ],
+        "correct_answer": "L’espérance de vie en bonne santé stagne malgré l’augmentation de l’espérance de vie totale"
+      },
+      {
+        "question": "Quel est le lien entre les préjugés liés à l’âge et les stéréotypes sur le vieillissement ?",
+        "choices": [
+          "Les stéréotypes sur le vieillissement concernent uniquement les aspects cognitifs",
+          "Les préjugés liés à l’âge sont directement influencés par les stéréotypes sociaux et environnementaux",
+          "Les préjugés liés à l’âge ont un impact limité sur les représentations de la vieillesse",
+          "Les stéréotypes sur le vieillissement sont principalement positifs"
+        ],
+        "correct_answer": "Les préjugés liés à l’âge sont directement influencés par les stéréotypes sociaux et environnementaux"
+      },
+      {
+        "question": "Dans les théories biomédicales du vieillissement, qu’est-ce que l’inflammaging ?",
+        "choices": [
+          "Une inflammation aiguë due aux changements physiologiques liés à l’âge",
+          "Un processus inflammatoire chronique favorisant le développement de maladies",
+          "Une théorie selon laquelle les télomères se raccourcissent avec l’âge",
+          "Une adaptation positive du système immunitaire au vieillissement"
+        ],
+        "correct_answer": "Un processus inflammatoire chronique favorisant le développement de maladies"
+      },
+      {
+        "question": "Pourquoi les fonctions exécutives sont-elles particulièrement sensibles au vieillissement ?",
+        "choices": [
+          "Elles nécessitent une intégration constante des informations sensorielles et mnésiques",
+          "Elles sont principalement influencées par les changements physiologiques liés à l’audition",
+          "Elles impliquent des processus automatiques qui se détériorent avec l’âge",
+          "Elles sont peu utilisées dans les activités quotidiennes des personnes âgées"
+        ],
+        "correct_answer": "Elles nécessitent une intégration constante des informations sensorielles et mnésiques"
+      },
+      {
+        "question": "Dans la méthode Humanitude, quel est le rôle du rebouclage sensoriel pendant les soins ?",
+        "choices": [
+          "Encourager le patient à se souvenir des étapes du soin",
+          "Offrir des stimulations sensorielles pour apaiser et sécuriser le patient",
+          "Assurer que le consentement du patient a été bien obtenu",
+          "Terminer le soin en consolidant un souvenir positif"
+        ],
+        "correct_answer": "Offrir des stimulations sensorielles pour apaiser et sécuriser le patient"
+      },
+      {
+        "question": "Quels sont les principaux risques liés à un environnement non adapté aux personnes âgées, selon la méthode Montessori ?",
+        "choices": [
+          "Une réduction des troubles cognitifs et une augmentation des comportements sociaux",
+          "Une augmentation de l’agitation, de l’anxiété et de l’apathie",
+          "Une sur-stimulation sensorielle entraînant une fatigue excessive",
+          "Un développement accru des capacités procédurales malgré les troubles"
+        ],
+        "correct_answer": "Une augmentation de l’agitation, de l’anxiété et de l’apathie"
+      },
+      {
+        "question": "Pourquoi la méthode Snoezelen met-elle l’accent sur la sécurité et la répétition dans ses pratiques ?",
+        "choices": [
+          "Pour éviter toute hyperstimulation sensorielle pouvant perturber la personne",
+          "Pour maximiser les acquisitions cognitives à chaque séance",
+          "Pour permettre une exploration spontanée sans restriction",
+          "Pour garantir que toutes les personnes reçoivent une stimulation uniforme"
+        ],
+        "correct_answer": "Pour éviter toute hyperstimulation sensorielle pouvant perturber la personne"
+      },
+      {
+        "question": "Dans les interventions non médicamenteuses, quelle est la priorité lors des approches innovantes pour les personnes atteintes de MNE ?",
+        "choices": [
+          "Traiter directement les symptômes cognitifs avec des méthodes pharmacologiques",
+          "Maintenir et améliorer la qualité de vie des malades et de leurs aidants",
+          "Favoriser une indépendance totale grâce à des exercices intensifs",
+          "Réduire la charge des soignants en limitant les interactions"
+        ],
+        "correct_answer": "Maintenir et améliorer la qualité de vie des malades et de leurs aidants"
+      },
+      {
+        "question": "La mémoire procédurale reste généralement intacte chez les personnes âgées, car :",
+        "choices": [
+          "Elle est stockée dans des régions du cerveau peu affectées par le vieillissement",
+          "Elle est renforcée par les interactions sociales quotidiennes",
+          "Elle est activée par des stimuli émotionnels uniquement",
+          "Elle remplace la mémoire explicite dans les activités motrices"
+        ],
+        "correct_answer": "Elle est stockée dans des régions du cerveau peu affectées par le vieillissement"
+      },
+      {
+        "question": "Qu’est-ce que le concept d’humanitude signifie dans le soin aux personnes âgées ?",
+        "choices": [
+          "Une méthodologie visant à traiter uniquement les déficits cognitifs",
+          "Un ensemble de particularités permettant de préserver la dignité et l’autonomie",
+          "Une approche focalisée sur l’amélioration des performances physiques",
+          "Une série de techniques visant à accélérer le processus de soin"
+        ],
+        "correct_answer": "Un ensemble de particularités permettant de préserver la dignité et l’autonomie"
+      }
+    ]
+  }
+  
