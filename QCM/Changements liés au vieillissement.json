@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "Quels problèmes peuvent être causés par les changements cardio-respiratoires chez les personnes âgées ?",
+        "choices": [
+          "Une augmentation de l’activité physique",
+          "Une diminution du risque d’infarctus",
+          "Un cercle vicieux menant à l’isolement social",
+          "Une amélioration des fonctions cognitives"
+        ],
+        "correct_answer": "Un cercle vicieux menant à l’isolement social"
+      },
+      {
+        "question": "Quel sens est le moins affecté par le vieillissement ?",
+        "choices": [
+          "L’audition",
+          "La vision",
+          "Le goût",
+          "L’équilibre"
+        ],
+        "correct_answer": "Le goût"
+      },
+      {
+        "question": "La sarcopénie désigne :",
+        "choices": [
+          "Une perte de masse graisseuse",
+          "Une diminution de la masse musculaire",
+          "Une perte d’agilité sans modification musculaire",
+          "Une maladie osseuse liée à l’âge"
+        ],
+        "correct_answer": "Une diminution de la masse musculaire"
+      },
+      {
+        "question": "Quelle mémoire est la plus sensible à l’avancée en âge ?",
+        "choices": [
+          "Mémoire implicite",
+          "Mémoire procédurale",
+          "Mémoire explicite (épisodique et de travail)",
+          "Mémoire perceptive"
+        ],
+        "correct_answer": "Mémoire explicite (épisodique et de travail)"
+      },
+      {
+        "question": "Les fonctions exécutives permettent principalement de :",
+        "choices": [
+          "Maintenir les souvenirs à long terme",
+          "Faciliter l’adaptation aux situations nouvelles",
+          "Améliorer la coordination physique",
+          "Réduire les problèmes sensoriels"
+        ],
+        "correct_answer": "Faciliter l’adaptation aux situations nouvelles"
+      },
+      {
+        "question": "Quel exemple illustre une réduction des capacités d’inhibition liée au vieillissement ?",
+        "choices": [
+          "Le test du zoo",
+          "La tâche de Stroop",
+          "Le task switching",
+          "Le test du n-back"
+        ],
+        "correct_answer": "La tâche de Stroop"
+      },
+      {
+        "question": "Quels types d’attention sont particulièrement sensibles au vieillissement ?",
+        "choices": [
+          "Attention soutenue et divisée",
+          "Attention partagée et implicite",
+          "Attention automatique et réflexive",
+          "Attention implicite et réactive"
+        ],
+        "correct_answer": "Attention soutenue et divisée"
+      },
+      {
+        "question": "Les symptômes dépressifs chez les personnes âgées peuvent être causés par :",
+        "choices": [
+          "Une augmentation des interactions sociales",
+          "Une meilleure estime de soi",
+          "La perte de proches et la prise de conscience des changements liés à l’âge",
+          "Des stratégies d’adaptation efficaces"
+        ],
+        "correct_answer": "La perte de proches et la prise de conscience des changements liés à l’âge"
+      },
+      {
+        "question": "Qu’est-ce qui peut contribuer à maintenir une bonne santé psychique chez les personnes âgées ?",
+        "choices": [
+          "Une tendance au contrôle externe et la réduction de l’estime de soi",
+          "Des apprentissages centrés sur la notion de plaisir",
+          "L’évitement des émotions positives pour se concentrer sur les défis",
+          "Une focalisation exclusive sur les limitations physiques"
+        ],
+        "correct_answer": "Des apprentissages centrés sur la notion de plaisir"
+      }
+    ]
+  }
+  

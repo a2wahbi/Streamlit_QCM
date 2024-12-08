@@ -1,0 +1,95 @@
+{
+    "questions": [
+      {
+        "question": "Les interventions non médicamenteuses en gérontologie se distinguent des autres pratiques par :",
+        "choices": [
+          "Leur mise en œuvre basée sur des recommandations générales de santé publique",
+          "Leur cadre scientifique rigoureux et leurs bases théoriques solides",
+          "Leur nature expérimentale sans cadre défini",
+          "Leur capacité à guérir les maladies neuro-évolutives"
+        ],
+        "correct_answer": "Leur cadre scientifique rigoureux et leurs bases théoriques solides"
+      },
+      {
+        "question": "Les pratiques innovantes en gérontologie visent principalement à :",
+        "choices": [
+          "Maintenir et améliorer le fonctionnement cognitif, psychologique, social et physique",
+          "Remplacer les soins médicaux dans les structures hospitalières",
+          "Favoriser uniquement les interactions sociales entre les résidents d’un Ehpad",
+          "Développer de nouvelles thérapies curatives"
+        ],
+        "correct_answer": "Maintenir et améliorer le fonctionnement cognitif, psychologique, social et physique"
+      },
+      {
+        "question": "Les pratiques innovantes doivent être privilégiées aux traitements médicamenteux :",
+        "choices": [
+          "Pour toutes les personnes âgées",
+          "Lorsque cela correspond aux besoins et contextes de chaque personne",
+          "Lorsqu’il s’agit d’une alternative temporaire en attente d’un traitement médical",
+          "Exclusivement dans les cas de troubles cognitifs sévères"
+        ],
+        "correct_answer": "Lorsque cela correspond aux besoins et contextes de chaque personne"
+      },
+      {
+        "question": "Les maladies neuro-évolutives (MNE) incluent :",
+        "choices": [
+          "Un début rapide et des symptômes stables dans le temps",
+          "Des troubles cognitifs, comportementaux et d’humeur évoluant progressivement",
+          "Une évolution réversible après intervention thérapeutique",
+          "Une absence de troubles comportementaux"
+        ],
+        "correct_answer": "Des troubles cognitifs, comportementaux et d’humeur évoluant progressivement"
+      },
+      {
+        "question": "Actuellement, face aux maladies neuro-évolutives comme la maladie d’Alzheimer, il est possible de :",
+        "choices": [
+          "Soigner complètement la maladie",
+          "Retarder les symptômes avec des traitements curatifs",
+          "Améliorer la qualité de vie des malades, des aidants et des professionnels",
+          "Éliminer définitivement les troubles cognitifs"
+        ],
+        "correct_answer": "Améliorer la qualité de vie des malades, des aidants et des professionnels"
+      },
+      {
+        "question": "Pourquoi la méthode 'Validation' de Naomi Feil est-elle utilisée pour les personnes atteintes de MNE ?",
+        "choices": [
+          "Pour réorienter les malades dans la réalité",
+          "Pour reconnaître et accepter leurs émotions sans les juger",
+          "Pour les encourager à oublier leurs souvenirs passés",
+          "Pour se concentrer uniquement sur leurs capacités physiques"
+        ],
+        "correct_answer": "Pour reconnaître et accepter leurs émotions sans les juger"
+      },
+      {
+        "question": "Une pratique innovante se distingue par sa capacité à :",
+        "choices": [
+          "S’adresser uniquement aux troubles cognitifs légers",
+          "Maintenir ou retrouver une communication adaptée au patient",
+          "Réaliser des diagnostics médicaux avancés",
+          "Supprimer les obstacles liés aux interactions sociales"
+        ],
+        "correct_answer": "Maintenir ou retrouver une communication adaptée au patient"
+      },
+      {
+        "question": "Les pratiques innovantes doivent s’adapter :",
+        "choices": [
+          "Aux besoins spécifiques et au rythme de chaque personne âgée",
+          "Uniquement aux avancées scientifiques de leur domaine",
+          "Aux contraintes institutionnelles des Ehpad",
+          "Exclusivement aux recommandations des médecins"
+        ],
+        "correct_answer": "Aux besoins spécifiques et au rythme de chaque personne âgée"
+      },
+      {
+        "question": "Quel est l’un des objectifs principaux des interventions non médicamenteuses ?",
+        "choices": [
+          "Augmenter la consommation de médicaments pour réduire les symptômes",
+          "Favoriser une approche créative et individualisée",
+          "Réduire les besoins en personnel soignant",
+          "Normaliser les comportements des personnes âgées"
+        ],
+        "correct_answer": "Favoriser une approche créative et individualisée"
+      }
+    ]
+  }
+  

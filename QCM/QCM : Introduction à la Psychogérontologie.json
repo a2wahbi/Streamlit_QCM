@@ -1,0 +1,85 @@
+{
+    "questions": [
+      {
+        "question": "La psychogérontologie est une discipline qui :",
+        "choices": [
+          "Étudie uniquement les troubles psychologiques des personnes âgées",
+          "Se concentre sur les aspects sociaux des personnes âgées uniquement",
+          "Intègre les dimensions physiologiques, sociales, cognitives et environnementales des personnes âgées",
+          "S'occupe exclusivement des structures de soins hospitaliers"
+        ],
+        "correct_answer": "Intègre les dimensions physiologiques, sociales, cognitives et environnementales des personnes âgées"
+      },
+      {
+        "question": "L’objectif principal de la psychogérontologie est de :",
+        "choices": [
+          "Soigner les maladies des personnes âgées",
+          "Comprendre comment accompagner les personnes âgées pour vieillir en bonne santé",
+          "Réduire le nombre de personnes âgées dans les structures hospitalières",
+          "S’opposer à l’émergence de stéréotypes sur les jeunes générations"
+        ],
+        "correct_answer": "Comprendre comment accompagner les personnes âgées pour vieillir en bonne santé"
+      },
+      {
+        "question": "Quel domaine ne fait pas partie des multiples approches nécessaires en psychogérontologie ?",
+        "choices": [
+          "Physiologique",
+          "Cognitif",
+          "Environnemental",
+          "Juridique"
+        ],
+        "correct_answer": "Juridique"
+      },
+      {
+        "question": "Pourquoi la discipline de psychogérontologie a-t-elle émergé ?",
+        "choices": [
+          "En raison de l’augmentation des préjugés sociaux",
+          "À cause du vieillissement démographique et de l’espérance de vie prolongée",
+          "En réaction aux progrès technologiques en gériatrie",
+          "En réponse à la diminution des pathologies chez les personnes âgées"
+        ],
+        "correct_answer": "À cause du vieillissement démographique et de l’espérance de vie prolongée"
+      },
+      {
+        "question": "La différence entre gérontologie et psychogérontologie est :",
+        "choices": [
+          "La gérontologie inclut uniquement l’étude biologique du vieillissement, tandis que la psychogérontologie se concentre sur les pathologies psychiatriques",
+          "La gérontologie traite des maladies du vieillissement, tandis que la psychogérontologie inclut les aspects psychologiques et développementaux",
+          "Il n’y a pas de réelle différence entre les deux disciplines",
+          "La psychogérontologie est une spécialité médicale alors que la gérontologie est interdisciplinaire"
+        ],
+        "correct_answer": "La gérontologie traite des maladies du vieillissement, tandis que la psychogérontologie inclut les aspects psychologiques et développementaux"
+      },
+      {
+        "question": "Qu’entend-on par 'vieillissement du vieillissement' ?",
+        "choices": [
+          "La vieillesse devient une maladie à traiter médicalement",
+          "Les générations plus jeunes vieillissent plus tôt",
+          "Les personnes âgées atteignent des âges de plus en plus avancés",
+          "Les structures sociales ne prennent pas en compte les besoins des personnes âgées"
+        ],
+        "correct_answer": "Les personnes âgées atteignent des âges de plus en plus avancés"
+      },
+      {
+        "question": "Quels sont les enjeux liés à l’émergence de la psychogérontologie ?",
+        "choices": [
+          "Politiques publiques, économiques et sociaux",
+          "Uniquement sociaux",
+          "Exclusivement médicaux",
+          "Principalement liés aux avancées technologiques"
+        ],
+        "correct_answer": "Politiques publiques, économiques et sociaux"
+      },
+      {
+        "question": "Suzanne Pacaud, figure de la psychogérontologie, a mis en avant l’importance de :",
+        "choices": [
+          "Traiter les pathologies des personnes âgées avec des méthodes strictes",
+          "Prendre en considération les trajectoires de vie individuelles pour comprendre leur vieillissement",
+          "Développer exclusivement les aspects médicaux de la discipline",
+          "Se concentrer sur la réduction des stéréotypes en milieu hospitalier"
+        ],
+        "correct_answer": "Prendre en considération les trajectoires de vie individuelles pour comprendre leur vieillissement"
+      }
+    ]
+  }
+  

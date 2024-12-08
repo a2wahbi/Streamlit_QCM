@@ -1,0 +1,45 @@
+{
+    "questions": [
+      {
+        "question": "Quel mot désigne un regret profond accompagné du désir de changer ?",
+        "choices": ["Parapet", "Sanglot", "Repentir", "Mortifiant"],
+        "correct_answer": "Repentir"
+      },
+      {
+        "question": "Quel mot signifie quelque chose de définitif, qui ne peut pas être changé ?",
+        "choices": ["Irrévocable", "Mortifiant", "Sanglot", "Coquette"],
+        "correct_answer": "Irrévocable"
+      },
+      {
+        "question": "Comment appelle-t-on un mur bas destiné à protéger contre les chutes ?",
+        "choices": ["Repentir", "Parapet", "Mantille", "Mortifiant"],
+        "correct_answer": "Parapet"
+      },
+      {
+        "question": "Quel mot désigne une femme élégante qui aime séduire ?",
+        "choices": ["Mortifiant", "Coquette", "Sanglot", "Irrévocable"],
+        "correct_answer": "Coquette"
+      },
+      {
+        "question": "Que désigne une mantille noire ?",
+        "choices": [
+          "Une barrière de protection",
+          "Une robe de soirée élégante",
+          "Un voile de dentelle porté sur la tête et les épaules",
+          "Un accessoire utilisé pour pleurer"
+        ],
+        "correct_answer": "Un voile de dentelle porté sur la tête et les épaules"
+      },
+      {
+        "question": "Quel mot correspond à une honte ou un embarras profond ?",
+        "choices": ["Parapet", "Mortifiant", "Sanglot", "Repentir"],
+        "correct_answer": "Mortifiant"
+      },
+      {
+        "question": "Quel mot désigne une secousse respiratoire accompagnant des pleurs intenses ?",
+        "choices": ["Sanglot", "Coquette", "Mortifiant", "Mantille"],
+        "correct_answer": "Sanglot"
+      }
+    ]
+  }
+  
